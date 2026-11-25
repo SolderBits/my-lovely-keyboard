@@ -5,8 +5,7 @@
 	(uuid "cb65856a-d785-4a4e-a02a-d3d4cfa75a72")
 	(paper "A3")
 	(title_block
-		(title "Annova X75")
-		(company "Arnav Kumar")
+		(title "KEYBOARD")
 	)
 	(lib_symbols
 		(symbol "74xx:74HC595"

@@ -38,6 +38,4 @@ The build includes 3D-printed parts and SSS Fourwrap V2 PCB screw-in stabilizers
 | **Shipping allowance** | | | **₹119.81** | **$1.29** |
 | **Total allocated** | | | **₹11,539.92** | **$124.37** |
 
-USD amounts use the [25 November 2026 exchange rate](https://wise.com/in/currency-converter/usd-to-inr-rate/history/25-11-2026) of ₹92.79 per US$1. Each amount is rounded independently. Printing costs are pending, and some listed prices are estimates.
 
-The diode listing title and URL show different pack sizes. Three packs cover the required 110 diodes at either listed size.

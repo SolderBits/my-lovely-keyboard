@@ -26,6 +26,8 @@ The hardware plan also includes a single-cell LiPo with a TP4056 charging module
 
 The build includes 3D-printed parts and SSS Fourwrap V2 PCB screw-in stabilizers. The stabilizer kit includes four 2U wires and wires for both 6.25U and 7U spacebars.
 
+![Top view of the assembled My Lovely Keyboard CAD model](RENDERS/ASB1.png)
+
 ![Angled side view of the assembled keyboard case](RENDERS/ASB2.png)
 
 ![Straight-on side view of the assembled keyboard case](RENDERS/ASB3.png)

@@ -46,7 +46,7 @@ The build includes 3D-printed parts and SSS Fourwrap V2 PCB screw-in stabilizers
 | [PCB fabrication](https://jlcpcb.com/) | Custom keyboard PCB | 1 order | ₹3,692.77 | $39.80 |
 | [1N4148 switching diodes](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) | Key matrix isolation | 120 | ₹128.00 | $1.38 |
 | [SoulCat Cowgirl keycaps](https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order) | 141-piece MOA-profile PBT keycap set | 1 set | ₹2,039.00 | $21.97 |
-| 3D-printed parts | Mechanical assembly | Pending | Pending | Pending |
+| 3D-printed parts | Mechanical assembly |  | |  |
 | **Estimated parts subtotal** | | | **₹11,420.11** | **$123.07** |
 | **Shipping allowance** | | | **₹119.81** | **$1.29** |
 | **Total allocated** | | | **₹11,539.92** | **$124.37** |

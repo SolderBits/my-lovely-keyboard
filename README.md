@@ -10,7 +10,7 @@ The design uses a Pro Micro nRF52840 development board, four 74HC595 shift regis
 
 The hardware plan also includes a single-cell LiPo with a TP4056 charging module.
 
-### Schematic and board layout
+### Schematic and Board layout
 
 ![Keyboard schematic showing the switch matrix and controller circuitry](RENDERS/SCE1.png)
 

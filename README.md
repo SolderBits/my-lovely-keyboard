@@ -44,7 +44,7 @@ The build includes 3D-printed parts and SSS Fourwrap V2 PCB screw-in stabilizers
 | [SS-12D00 1P2T slide switches](https://robu.in/product/1-month-warranty-255/) | Slide switches | 6 | ₹11.34 | $0.12 |
 | [SSS Fourwrap V2 stabilizers](https://neomacro.in/products/sss-fourwrap-v2-stabilizers) | Support wider keys | 1 kit | ₹1,059.00 | $11.41 |
 | [PCB fabrication](https://jlcpcb.com/) | Custom keyboard PCB | 1 order | ₹3,692.77 | $39.80 |
-| [1N4148 switching diodes](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) | Key matrix isolation | 3 packs for 110 diodes needed | ₹128.00 | $1.38 |
+| [1N4148 switching diodes](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) | Key matrix isolation | 120 | ₹128.00 | $1.38 |
 | [SoulCat Cowgirl keycaps](https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order) | 141-piece MOA-profile PBT keycap set | 1 set | ₹2,039.00 | $21.97 |
 | 3D-printed parts | Mechanical assembly | Pending | Pending | Pending |
 | **Estimated parts subtotal** | | | **₹11,420.11** | **$123.07** |

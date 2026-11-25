@@ -1,4 +1,4 @@
-Item,Units needed,Purchase quantity,Purchase unit,Unit price INR,Unit price USD,Amount INR,Amount USD,Link
+Item,Units needed,Purchase quantity,Purchase unit,Unit price INR,Unit price USD,Amount(INR),Amount( USD),Link
 Akko Creamy Cyan clicky switches,90,2,Pack of 45,1299.00,14.00,2598.00,28.00,https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/
 Jerrzi MX hot-swap sockets,90,9,Pack of 10,50.00,0.54,450.00,4.85,https://neomacro.in/products/jerrzi-mx-hotswap-sockets
 Pro Micro nRF52840 development board,1,1,Board,899.00,9.69,899.00,9.69,https://robu.in/product/promicro-nrf52840-development-board/
@@ -14,4 +14,4 @@ JLCPCB PCB fabrication,,1,Pack of  5,3692.77,39.80,3692.77,39.80,https://jlcpcb.
 SoulCat Cowgirl MOA PBT keycaps,141,1,Set of 141,2039.00,21.97,2039.00,21.97,https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order
 Shipping allowance,,1,,119.81,1.29,119.81,1.29,
 Estimated parts subtotal,,,,,,11420.11,123.07,
-Total,,,,,,11539.92,124.37,
+Total,,,,,,₹11539.92,$124.64,

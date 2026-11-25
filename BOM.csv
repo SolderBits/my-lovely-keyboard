@@ -1,17 +1,17 @@
-Item,Units needed,Purchase quantity,Purchase unit,Unit price INR,Unit price USD,Amount(INR),Amount( USD),Link
-Akko Creamy Cyan clicky switches,90,2,Pack of 45,1299.00,14.00,2598.00,28.00,https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/
-Jerrzi MX hot-swap sockets,90,9,Pack of 10,50.00,0.54,450.00,4.85,https://neomacro.in/products/jerrzi-mx-hotswap-sockets
-Pro Micro nRF52840 development board,1,1,Board,899.00,9.69,899.00,9.69,https://robu.in/product/promicro-nrf52840-development-board/
-74HC595 8-bit shift register IC,4,4,IC,15.00,0.16,60.00,0.65,https://robocraze.com/products/8-bit-serial-to-parallel-shift-register-ic-74hc595
-3.7 V 10000 mAh single-cell LiPo battery,1,1,Battery,349.00,3.76,349.00,3.76,https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery
-TP4056 1 A charging module,1,1,Module,18.00,0.19,18.00,0.19,https://makerbazar.in/products/tp4056-1a-li-ion-lithium-battery-charging-module?variant=45459125567728
-3D-printed parts,,,Parts,-,-,-,-,PRINTING LEGION
-Hongyan EC11H 7CE20P1ZY15F7 rotary encoder with push button,2,2,Encoder,58.00,0.63,116.00,1.25,https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/
-SS-12D00 1P2T slide switch,6,6,Switch,1.89,0.02,11.34,0.12,https://robu.in/product/1-month-warranty-255/
-SSS Fourwrap V2 screw-in stabilizers,1,1,Kit,1059.00,11.41,1059.00,11.41,https://neomacro.in/products/sss-fourwrap-v2-stabilizers
-JLCPCB PCB fabrication,,1,Pack of  5,3692.77,39.80,3692.77,39.80,https://jlcpcb.com/
-1N4148 switching diodes,110,3,Pack,,,128.00,1.38,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/
-SoulCat Cowgirl MOA PBT keycaps,141,1,Set of 141,2039.00,21.97,2039.00,21.97,https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order
-Shipping allowance,,1,,119.81,1.29,119.81,1.29,
-Estimated parts subtotal,,,,,,11420.11,123.07,
-Total,,,,,,₹11539.92,$124.64,
+Item,Units needed,Purchase quantity,Purchase unit,Unit price INR,Unit price USD,Amount( USD),Link,
+Akko Creamy Cyan clicky switches,90,2,Pack of 45,1299.00,14.00,28.00,https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/,
+Jerrzi MX hot-swap sockets,90,9,Pack of 10,50.00,0.54,4.85,https://neomacro.in/products/jerrzi-mx-hotswap-sockets,
+Pro Micro nRF52840 development board,1,1,Board,899.00,9.69,9.69,https://robu.in/product/promicro-nrf52840-development-board/,
+74HC595 8-bit shift register IC,4,4,IC,15.00,0.16,0.65,https://robocraze.com/products/8-bit-serial-to-parallel-shift-register-ic-74hc595,
+3.7 V 10000 mAh single-cell LiPo battery,1,1,Battery,349.00,3.76,3.76,https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery,
+TP4056 1 A charging module,1,1,Module,18.00,0.19,0.19,https://makerbazar.in/products/tp4056-1a-li-ion-lithium-battery-charging-module?variant=45459125567728,
+3D-printed parts,,,Parts,-,-,-,PRINTING LEGION,
+Hongyan EC11H 7CE20P1ZY15F7 rotary encoder with push button,2,2,Encoder,58.00,0.63,1.25,https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/,
+SS-12D00 1P2T slide switch,6,6,Switch,1.89,0.02,0.12,https://robu.in/product/1-month-warranty-255/,
+SSS Fourwrap V2 screw-in stabilizers,1,1,Kit,1059.00,11.41,11.41,https://neomacro.in/products/sss-fourwrap-v2-stabilizers,
+JLCPCB PCB fabrication,,1,Pack of  5,3692.77,39.80,39.80,https://jlcpcb.com/,
+1N4148 switching diodes,110,3,Pack,,,1.38,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/,
+SoulCat Cowgirl MOA PBT keycaps,141,1,Set of 141,2039.00,21.97,21.97,https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order,
+Shipping allowance,,1,,119.81,1.29,1.29,,
+Estimated parts subtotal,,,,,,123.07,,
+Total,,,,,,124.64 USD,,

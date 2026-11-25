@@ -1,7 +1,8 @@
-# my-lovely-keyboard
 # My Lovely Keyboard
 
-My Lovely Keyboard is a custom mechanical keyboard build with a hot-swap MX PCB, two rotary encoders with push buttons, and 3D-printed parts. The build pairs Akko Creamy Cyan clicky switches with SoulCat Cowgirl keycaps.
+My Lovely Keyboard is a custom 75% mechanical keyboard with a hot-swap MX PCB, two rotary encoders with push buttons, and 3D-printed parts. The build pairs Akko Creamy Cyan clicky switches with SoulCat Cowgirl keycaps.
+
+![Top view of the assembled My Lovely Keyboard CAD model](RENDERS/ASB1.png)
 
 ## PCB
 
@@ -9,13 +10,25 @@ The design uses a Pro Micro nRF52840 development board, four 74HC595 shift regis
 
 The hardware plan also includes two Hongyan EC11H rotary encoders with push buttons and a single-cell LiPo with a TP4056 charging module.
 
-<!-- Add schematic and PCB renders here once their repository paths are available. -->
+### Schematic and board layout
+
+![Keyboard schematic showing the switch matrix and controller circuitry](RENDERS/SCE1.png)
+
+![Routed keyboard PCB in KiCad](RENDERS/PCB1.png)
+
+### PCB renders
+
+![Angled 3D view of the keyboard PCB](RENDERS/3D1.png)
+
+![Top 3D view of the keyboard PCB](RENDERS/3D2.png)
 
 ## Case
 
 The build includes 3D-printed parts and SSS Fourwrap V2 PCB screw-in stabilizers. The stabilizer kit includes four 2U wires and wires for both 6.25U and 7U spacebars.
 
-<!-- Add the assembled case and exploded-view renders here. -->
+![Angled side view of the assembled keyboard case](RENDERS/ASB2.png)
+
+![Straight-on side view of the assembled keyboard case](RENDERS/ASB3.png)
 
 ## Bill of Materials
 
@@ -37,5 +50,4 @@ The build includes 3D-printed parts and SSS Fourwrap V2 PCB screw-in stabilizers
 | **Estimated parts subtotal** | | | **₹11,420.11** | **$123.07** |
 | **Shipping allowance** | | | **₹119.81** | **$1.29** |
 | **Total allocated** | | | **₹11,539.92** | **$124.37** |
-
 

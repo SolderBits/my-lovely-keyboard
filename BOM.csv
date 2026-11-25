@@ -1,15 +1,16 @@
-Part,Type,Qty,Unit Price,Amount USD,Link,Vendor,Funding,Notes,Purchase Quantity,Purchase Unit,Unit Price INR,,Cart
-Akko Creamy Cyan clicky switches,Part,90,14.00,28.00,https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/,StacksKB,Grant,,2,Pack of 45,1299.00,,
-Jerrzi MX hot-swap sockets,Part,90,0.54,4.85,https://neomacro.in/products/jerrzi-mx-hotswap-sockets,Neo Macro,Grant,Stock for all 9 packs unconfirmed,9,Pack of 10,50.00,,
-Pro Micro nRF52840 development board,Part,1,9.69,9.69,https://robu.in/product/promicro-nrf52840-development-board/,Robu.in,Grant,User-provided price,1,Board,899.00,,
-74HC595 8-bit shift register IC,Part,4,0.16,0.65,https://robocraze.com/products/8-bit-serial-to-parallel-shift-register-ic-74hc595,Robocraze,Grant,,4,IC,15.00,,
-3.7 V 10000 mAh single-cell LiPo battery,Part,1,3.76,3.76,https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery,MakerBazar,Grant,1260110 without BMS or wires,1,Battery,349.00,,
-TP4056 1 A charging module,Part,1,0.19,0.19,https://makerbazar.in/products/tp4056-1a-li-ion-lithium-battery-charging-module?variant=45459125567728,MakerBazar,Grant,Provisional price for linked variant,1,Module,18.00,,
-3D-printed parts,3D printed,,,,,,,Quantity and cost pending,,Parts,,,
-Hongyan EC11H 7CE20P1ZY15F7 rotary encoder with push button,Part,2,0.63,1.25,https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/,Robu.in,Grant,Estimated price,2,Encoder,58.00,,
-SS-12D00 1P2T slide switch,Part,6,0.02,0.12,https://robu.in/product/1-month-warranty-255/,Robu.in,Grant,User-provided line total,6,Switch,1.89,,
-SSS Fourwrap V2 screw-in stabilizers,Part,1,11.41,11.41,https://neomacro.in/products/sss-fourwrap-v2-stabilizers,Neo Macro,Grant,Listed sale price,1,Kit,1059.00,,
-JLCPCB PCB fabrication,Part,5,39.80,39.80,-,JLCPCB,Grant,User-provided quote. Link is the fabrication service homepage.,1,Pack of 5,3692.77,,
-1N4148 switching diodes,Part,110,,1.38,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/,Robu.in,Grant,User-provided line total. Title says 40 per pack and URL says 50. Three packs cover 110.,3,Pack,,,
-SoulCat Cowgirl MOA PBT keycaps,Part,141,21.97,21.97,https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order,Neo Macro,Grant,Listed sale price,1,Set of 141,2039.00,,
-Shipping allowance,Shipping,1,1.29,1.29,,,Grant,Budget allocation,1,Allowance,119.81,,
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Purchase Quantity,Purchase Unit,Unit Price INR
+Akko Creamy Cyan clicky switches,Part,90,14.00,28.00,https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/,StacksKB,Grant,,2,Pack of 45,1299.00
+Jerrzi MX hot-swap sockets,Part,90,0.54,4.85,https://neomacro.in/products/jerrzi-mx-hotswap-sockets,Neo Macro,Grant,,9,Pack of 10,50.00
+Pro Micro nRF52840 development board,Part,1,9.69,9.69,https://robu.in/product/promicro-nrf52840-development-board/,Robu.in,Grant,,1,Board,899.00
+74HC595 8-bit shift register IC,Part,4,0.16,0.65,https://robocraze.com/products/8-bit-serial-to-parallel-shift-register-ic-74hc595,Robocraze,Grant,,4,IC,15.00
+3.7 V 10000 mAh single-cell LiPo battery,Part,1,3.76,3.76,https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery,MakerBazar,Grant,,1,Battery,349.00
+TP4056 1 A charging module,Part,1,0.19,0.19,https://makerbazar.in/products/tp4056-1a-li-ion-lithium-battery-charging-module?variant=45459125567728,MakerBazar,Grant,,1,Module,18.00
+3D-printed parts,3D printed,,,,,,Grant,,,Parts,
+Hongyan EC11H 7CE20P1ZY15F7 rotary encoder with push button,Part,2,0.63,1.25,https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/,Robu.in,Grant,,2,Encoder,58.00
+SS-12D00 1P2T slide switch,Part,6,0.02,0.12,https://robu.in/product/1-month-warranty-255/,Robu.in,Grant,,6,Switch,1.89
+SSS Fourwrap V2 screw-in stabilizers,Part,1,11.41,11.41,https://neomacro.in/products/sss-fourwrap-v2-stabilizers,Neo Macro,Grant,,1,Kit,1059.00
+JLCPCB PCB fabrication,Part,5,39.80,39.80,,JLCPCB,Grant,,1,Pack of 5,3692.77
+1N4148 switching diodes,Part,110,,1.38,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/,Robu.in,Grant,,3,Pack,
+SoulCat Cowgirl MOA PBT keycaps,Part,141,21.97,21.97,https://neomacro.in/products/soulcat-cowgirl-keycaps-pre-order,Neo Macro,Grant,,1,Set of 141,2039.00
+Shipping allowance,Shipping,1,1.29,1.29,,,Grant,,1,Allowance,119.81
+Total,,,,124.36,,,,,,,

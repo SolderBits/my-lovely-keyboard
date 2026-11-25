@@ -1,6 +1,6 @@
 # My Lovely Keyboard
 
-My Lovely Keyboard is a custom 75% mechanical keyboard with a hot-swap MX PCB, two rotary encoders with push buttons, and 3D-printed parts. The build pairs Akko Creamy Cyan clicky switches with SoulCat Cowgirl keycaps.
+My Lovely Keyboard is a custom 75% mechanical keyboard with a hot-swap MX PCB,  rotary encoders with push buttons, and 3D-printed parts. The build pairs Akko Creamy Cyan clicky switches with SoulCat Cowgirl keycaps for the extra girly touch.
 
 ![Top view of the assembled My Lovely Keyboard CAD model](RENDERS/ASB1.png)
 
@@ -8,7 +8,7 @@ My Lovely Keyboard is a custom 75% mechanical keyboard with a hot-swap MX PCB, t
 
 The design uses a Pro Micro nRF52840 development board, four 74HC595 shift registers, and 1N4148 switching diodes for the key matrix. Jerrzi MX hot-swap sockets let you swap individual switches without desoldering them.
 
-The hardware plan also includes two Hongyan EC11H rotary encoders with push buttons and a single-cell LiPo with a TP4056 charging module.
+The hardware plan also includes a single-cell LiPo with a TP4056 charging module.
 
 ### Schematic and board layout
 

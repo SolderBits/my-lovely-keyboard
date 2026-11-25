@@ -1,0 +1,86 @@
+#include <dt-bindings/gpio/gpio.h>
+#include <dt-bindings/pinctrl/nrf-pinctrl.h>
+
+/ {
+    chosen {
+        zmk,kscan = &kscan0;
+    };
+
+    kscan0: matrix_scan {
+        compatible = "zmk,kscan-gpio-matrix";
+        diode-direction = "col2row";
+        row-gpios =
+            <&gpio0 31 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            <&gpio0 29 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            <&gpio0 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            <&gpio1 15 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            <&gpio1 13 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            <&gpio1 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>;
+        /* U3 drives columns 0–7, U2 drives columns 8–14. */
+        col-gpios =
+            <&columns 8 GPIO_ACTIVE_HIGH>
+            <&columns 9 GPIO_ACTIVE_HIGH>
+            <&columns 10 GPIO_ACTIVE_HIGH>
+            <&columns 11 GPIO_ACTIVE_HIGH>
+            <&columns 12 GPIO_ACTIVE_HIGH>
+            <&columns 13 GPIO_ACTIVE_HIGH>
+            <&columns 14 GPIO_ACTIVE_HIGH>
+            <&columns 15 GPIO_ACTIVE_HIGH>
+            <&columns 0 GPIO_ACTIVE_HIGH>
+            <&columns 1 GPIO_ACTIVE_HIGH>
+            <&columns 2 GPIO_ACTIVE_HIGH>
+            <&columns 3 GPIO_ACTIVE_HIGH>
+            <&columns 4 GPIO_ACTIVE_HIGH>
+            <&columns 5 GPIO_ACTIVE_HIGH>
+            <&columns 6 GPIO_ACTIVE_HIGH>;
+    };
+
+    volume_encoder: volume_encoder {
+        compatible = "alps,ec11";
+        a-gpios = <&gpio1 0 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+        b-gpios = <&gpio0 24 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+        steps = <80>;
+        status = "okay";
+    };
+
+    sensors {
+        compatible = "zmk,keymap-sensors";
+        sensors = <&volume_encoder>;
+        triggers-per-rotation = <20>;
+    };
+};
+
+&pinctrl {
+    matrix_spi_default: matrix_spi_default {
+        group1 {
+            psels = <NRF_PSEL(SPIM_MOSI, 0, 17)>,
+                    <NRF_PSEL(SPIM_SCK, 0, 20)>;
+        };
+    };
+
+    matrix_spi_sleep: matrix_spi_sleep {
+        group1 {
+            psels = <NRF_PSEL(SPIM_MOSI, 0, 17)>,
+                    <NRF_PSEL(SPIM_SCK, 0, 20)>;
+            low-power-enable;
+        };
+    };
+};
+
+&spi0 {
+    status = "okay";
+    pinctrl-0 = <&matrix_spi_default>;
+    pinctrl-1 = <&matrix_spi_sleep>;
+    pinctrl-names = "default", "sleep";
+    cs-gpios = <&gpio0 22 GPIO_ACTIVE_LOW>;
+
+    columns: gpio@0 {
+        compatible = "zmk,gpio-595";
+        reg = <0>;
+        spi-max-frequency = <1000000>;
+        gpio-controller;
+        #gpio-cells = <2>;
+        ngpios = <16>;
+        status = "okay";
+    };
+};

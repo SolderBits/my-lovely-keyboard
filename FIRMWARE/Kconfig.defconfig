@@ -1,0 +1,9 @@
+if SHIELD_MY_LOVELY_KEYBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "My Lovely KB"
+
+config SPI
+    default y
+
+endif
